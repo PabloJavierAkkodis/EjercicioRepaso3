@@ -1,0 +1,4 @@
+Pablo	 	Pablo	 	1234123U	 	Granada	 	01/06/2000	 	01/06/2000	 	23	 	23000.0	 	dev	 	18400.0	 	23
+Gustavo	 	Vargas	 	1234123Y	 	Mendoza	 	01/06/2000	 	03/08/2020	 	23	 	80000.0	 	profe	 	64000.0	 	2
+Ernesto	 	Garcia	 	4532234Y	 	Granada	 	01/01/1990	 	01/01/2020	 	43	 	34000.0	 	dev	 	27200.0	 	3
+David	 	Perez	 	3223232U	 	Alava	 	01/03/1999	 	01/06/2022	 	23	 	23000.0	 	ayudante	 	18400.0	 	1
